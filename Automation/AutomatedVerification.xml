@@ -12,11 +12,11 @@
   -->
 
   <Alm Id="Tfs">
-    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Launchpad/Automated Uploading.txt" Id="f608e22da1e175f3c6705935d662f4e8c49ea364"/>
-    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Launchpad/CI Remote Execution.txt" Id="01c1bb8b9a620fa99fefa0eb8f29df9b9bdd9bd6"/>
-    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Planning/CI Tool" Id="19b00983657c3c79379f88ff8895c925cf649d4e"/>
-    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Planning/Python Mock.txt" Id="6f2c17df06c5a857e18531e7ef9f0a00128ab001"/>
-    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Python Unit Test.txt" Id="652bb2fbf666cd85fb83b5c7bee44f3a1268f2bb"/>
-    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Launchpad/Read Old Repositories.txt" Id="46de2302e374d912ffdb5a63146700369f18a299"/>
+    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Launchpad/AutomatedUploading.txt" Id="f608e22da1e175f3c6705935d662f4e8c49ea364"/>
+    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Launchpad/CIRemoteExecution.txt" Id="01c1bb8b9a620fa99fefa0eb8f29df9b9bdd9bd6"/>
+    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Planning/CITool" Id="19b00983657c3c79379f88ff8895c925cf649d4e"/>
+    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Planning/PythonMock.txt" Id="6f2c17df06c5a857e18531e7ef9f0a00128ab001"/>
+    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/PythonUnitTest.txt" Id="652bb2fbf666cd85fb83b5c7bee44f3a1268f2bb"/>
+    <Test Name="C:/RadOnc/GITPython/Automation/TestCases/Launchpad/ReadOldRepositories.txt" Id="46de2302e374d912ffdb5a63146700369f18a299"/>
   </Alm>
 </TestCases>
